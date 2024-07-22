@@ -1,2 +1,2 @@
 # P5
-This is P6 group
+This is P5 group
